@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 39d33d995c9a3c44c8461e7d1ba6a23e
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/Brain/WHGLearingBrain 1.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}
