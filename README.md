@@ -1,0 +1,1 @@
+Course project where i recreated a famous setting of The-World-HArdest Game with Unity3d, and then teached a game-agent with reinforcment learning methods how to get from point A to B avoiding contr-agents.
